@@ -3,9 +3,6 @@
 This is the first file in this repo.
 
 
-## Ipsum Below
-sdfajdsf;jsdf;ldskjfdskjlfadsfjkadslfkjadfjkadsfl;js
+## Website Contents
 
-
-
-jdskjfasd;flkjdsfjasf;djlks
+1. index.html
